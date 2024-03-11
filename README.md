@@ -1,7 +1,7 @@
 <!----Project Logo---->
  <div aling ="center">
  <a href = "https://nexus-89i.netlify.app">
- <img scr = "logoNexus" alt = "Nexus" width="300">
+ <img scr = "./img/nexus-logo.png" alt = "Nexus" width="300">
  </a>
 <h1>NEXUS</h1>
 
@@ -50,15 +50,12 @@ Sumérgete en el universo de NEXUS, donde la pasión por los videojuegos se encu
 
 ## ⚒️ Tecnologias implementadas
 
-|Tecnologia |Version|
 
-|---|---|
-[ ! [HTML5-badge]](HTML-url) |**5**
-[ ! [CSS3-badge]] (CSS3-url) |**3**
-[ ! [Boostrap-badge]] (Bootstrap-url) |**5.3**
-[ ! [Github-badge]] (Bootstrap-url) |-
-[ ! [Trello-badge]] (Trello-url) |-
-
+[![HTML5-badge]][HTML-url]
+[![CSS3-badge]][CSS3-url]
+[![BOOTSTRAP-badge]][Bootstrap-url]
+![Javascript-badge]
+![React-badge]
 ## ✅ Requisitos
 
 - Windows 10 o superior
@@ -121,7 +118,14 @@ Codigo y documentacion copyright 2023-2024 de los autores de NEXUS. Distribuido 
 
 <!---Markdown links & images--->
 
-[HTML-5-badge]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-[Boostrap-url]: https://getbootstrap.com/#7952B3
+[HTML5-badge]:https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[HTML-url]:http://html.com/tags/
+[CSS3-badge]:https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[CSS3-url]:https://www.w3.org/Style/CSS/
+[BOOTSTRAP-badge]:https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap-url]:https://getbootstrap.com/
+[Javascript-badge]:https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+[Bootstrap-url]:https://getbootstrap.com/
+[React-badge]:https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[Bootstrap-url]:https://getbootstrap.com/
 
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
