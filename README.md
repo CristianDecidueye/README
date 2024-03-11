@@ -1,7 +1,7 @@
 <!----Project Logo---->
  <div aling ="center">
  <a href = "https://nexus-89i.netlify.app">
- <img scr = "./img/nexus-logo.png" alt = "Nexus" width="300">
+ <img src = "./img/nexus-logo.png" alt = "Nexus" width="300">
  </a>
 <h1>NEXUS</h1>
 
